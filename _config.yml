@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: Chunyu Pan
-description: [A short description of your site's purpose]
+description: test
 show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
+google_analytics: test
