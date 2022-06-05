@@ -3,6 +3,6 @@ logo: /figure/chunyupan.JPG
 description: 
 #### Day of Birth
 1994.10.14
-show_downloads: true
+show_downloads: False
 google_analytics:
 theme: jekyll-theme-minimal
