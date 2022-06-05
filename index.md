@@ -1,35 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@chunyu-pan 
-orderedlist
-/
-minimal
-Public
-Code
-Issues
-24
-Pull requests
-11
-Actions
-Projects
-Wiki
-Security
-Insights
-minimal/index.html
-@orderedlist
-orderedlist Update sample html
-…
-Latest commit 68feea7 on 28 Oct 2015
- History
- 2 contributors
-@orderedlist@Zeriuno
-207 lines (161 sloc) 7.45 KB 
-   
 <!doctype html>
 <html>
   <head>
