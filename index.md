@@ -1,15 +1,15 @@
 
 
 ## Education
-PhD Candidate, 2019-persent.<br>
+**PhD Candidate, 2019-persent.**<br>
 Northeastern University,<br>
 Computer science and technology.
 
-MS, 2017-2019.<br>
+**MS, 2017-2019.**<br>
 Northeastern University,<br>
 Computer science and technology.
 
-BS, 2013-2017.<br>
+**BS, 2013-2017.**<br>
 Shenyang University of Technology,<br>
 Computer science and technology. 
 ## Research interests
