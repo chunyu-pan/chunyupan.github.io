@@ -1,10 +1,6 @@
 
 
 ## Education
-2013.9-2017.7
-2017.9-2019.7
-2019.9-2023.7
-
 PhD Candidate, Northeastern University, Computer science and technology, 2019-persent
 MS, Northeastern University, Computer science and technology, 2017-2019
 BS, Shenyang University of Technology, Computer science and technology, 2013
