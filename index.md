@@ -5,13 +5,15 @@
 
   Computer science and technology, 2019-persent
  
-* MS, Northeastern University
+* MS, Northeastern University,
  
   Computer science and technology, 2017-2019
  
-* BS, Shenyang University of Technology
+* BS, Shenyang University of Technology,
  
   Computer science and technology, 2013-2017
+## Research interests
+_Complex network_, _Structural controllability_, _Algorithm optimization_, _Biological networks_
 
 ## Publications
 * "Control analysis of Protein-Protein interaction Network reveals potential regulatory targets for MYCN." **Chunyu Pan**,Yuyan Zhu,Meng Yu,Yongkang Zhao,Changsheng Zhang*,Xizhe Zhang*,Yang Yao*  _Frontiers in oncology._ 2021 If=6.244
