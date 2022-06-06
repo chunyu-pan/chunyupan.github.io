@@ -1,6 +1,7 @@
 title: Chunyu Pan
 logo: /figure/chunyupan.JPG
-description: figure/QRcode.png
+description: >
+<img src="figure/QRcode.png" />
 show_downloads: False
 google_analytics:
 theme: jekyll-theme-minimal
