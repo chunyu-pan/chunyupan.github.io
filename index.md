@@ -12,6 +12,7 @@
 * BS, Shenyang University of Technology,
  
   Computer science and technology, 2013-2017
+
 ## Research interests
 _Complex network_, _Structural controllability_, _Algorithm optimization_, _Biological networks_
 
