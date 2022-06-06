@@ -1,15 +1,17 @@
 
 
 ## Education
-PhD Candidate, Northeastern University,<br>
-Computer science and technology, 2019-persent.
+PhD Candidate, 2019-persent.<br>
+Northeastern University,<br>
+Computer science and technology.
 
-MS, Northeastern University,<br>
-Computer science and technology, 2017-2019.
+MS, 2017-2019.<br>
+Northeastern University,<br>
+Computer science and technology.
 
-BS, Shenyang University of Technology,<br>
-Computer science and technology, 2013-2017.
-
+BS, 2013-2017.<br>
+Shenyang University of Technology,<br>
+Computer science and technology. 
 ## Research interests
 _Complex network_, _Structural controllability_, _Algorithm optimization_, _Biological networks_
 
