@@ -2,15 +2,15 @@
 
 ## Education
 **PhD Candidate, 2019-persent.**<br>
-Northeastern University,<br>
+Northeastern University, Shenyang, china<br>
 Computer science and technology.
 
 **MS, 2017-2019.**<br>
-Northeastern University,<br>
+Northeastern University, Shenyang, china<br>
 Computer science and technology.
 
 **BS, 2013-2017.**<br>
-Shenyang University of Technology,<br>
+Shenyang University of Technology, Shenyang, china<br>
 Computer science and technology. 
 ## Research interests
 _Complex network_, _Structural controllability_, _Algorithm optimization_, _Biological networks_
