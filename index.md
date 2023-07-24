@@ -16,14 +16,14 @@ Computer science and technology.
 _Complex network_, _Structural controllability_, _Algorithm optimization_, _Biological networks_
 
 ## Publications
-"Control analysis of Protein-Protein interaction Network reveals potential regulatory targets for MYCN."
-**Chunyu Pan**, Yuyan Zhu, Meng Yu, Yongkang Zhao, Changsheng Zhang* , Xizhe Zhang* , Yang Yao*  
+"Control analysis of Protein-Protein interaction Network reveals potential regulatory targets for MYCN."<br>
+**Chunyu Pan**, Yuyan Zhu, Meng Yu, Yongkang Zhao, Changsheng Zhang* , Xizhe Zhang* , Yang Yao*  <br>
 _Frontiers in oncology._ 2021 If=6.244
 
-"Early-stage repetitive transcranial magnetic stimulation altered posterior-anterior cerebrum effective connectivity in methylazoxymethanol acetate rats."
-Huiling Guo, Yao Xiao, Dandan Sun, Jingyu Yang, Jie Wang, Huaning Wang, **Chunyu Pan**, Chao Li, Pengfei Zhao, Yanbo Zhang, Jinfeng Wu, Xizhe Zhang* , Fei Wang* 
+"Early-stage repetitive transcranial magnetic stimulation altered posterior-anterior cerebrum effective connectivity in methylazoxymethanol acetate rats."<br>
+Huiling Guo, Yao Xiao, Dandan Sun, Jingyu Yang, Jie Wang, Huaning Wang, **Chunyu Pan**, Chao Li, Pengfei Zhao, Yanbo Zhang, Jinfeng Wu, Xizhe Zhang* , Fei Wang* <br>
 _Frontiers in neuroscience._ 2021 If=4.677
 
-"Cancer-keeper genes as therapeutic targets."
-Xizhe Zhang* , **Chunyu Pan**, Xinru Wei, Meng Yu, Shuangjie Liu, Jun An, Jieping Yang, Baojun Wei, Wenjun Hao, Yang Yao* , Yuyan Zhu *, Weixiong Zhang* 
+"Cancer-keeper genes as therapeutic targets."<br>
+Xizhe Zhang* , **Chunyu Pan**, Xinru Wei, Meng Yu, Shuangjie Liu, Jun An, Jieping Yang, Baojun Wei, Wenjun Hao, Yang Yao* , Yuyan Zhu *, Weixiong Zhang* <br>
 _iScience._ 2023 If=6.6
