@@ -20,4 +20,4 @@ _Complex network_, _Structural controllability_, _Algorithm optimization_, _Biol
 
 "Early-stage repetitive transcranial magnetic stimulation altered posterior-anterior cerebrum effective connectivity in methylazoxymethanol acetate rats." Huiling Guo, Yao Xiao, Dandan Sun, Jingyu Yang, Jie Wang, Huaning Wang, **Chunyu Pan**, Chao Li, Pengfei Zhao, Yanbo Zhang, Jinfeng Wu, Xizhe Zhang,* Fei Wang* _Frontiers in neuroscience._ 2021 If=4.677
 
-
+"Cancer-keeper genes as therapeutic targets." Xizhe Zhang*, **Chunyu Pan**, Xinru Wei, Meng Yu, Shuangjie Liu, Jun An, Jieping Yang, Baojun Wei, Wenjun Hao, Yang Yao*, Yuyan Zhu*, Weixiong Zhang* _iScience._ 2023 If=6.6
