@@ -24,3 +24,5 @@ _Frontiers in oncology._ 2021 If=6.244.
 
 
 [3]. Xizhe Zhang* , **Chunyu Pan**, Xinru Wei, Meng Yu, Shuangjie Liu, Jun An, Jieping Yang, Baojun Wei, Wenjun Hao, Yang Yao* , Yuyan Zhu* , Weixiong Zhang* . "_Cancer-keeper genes as therapeutic targets._" _iScience._ 2023 If=6.6.
+
+[4]. Xinru Wei† , **Chunyu Pan†**, Xizhe Zhang*, Weixiong Zhang . "_Total network controllability analysis discovers explainable drugs for Covid-19 treatment._" _biology direct._ 2023 If=5.5.
