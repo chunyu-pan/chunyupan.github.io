@@ -16,6 +16,8 @@ Computer science and technology.
 _Complex network_, _Structural controllability_, _Algorithm optimization_, _Biological networks_
 
 ## Publications
+(2024). Yifan Chen<sup>†</sup> , Pengfei Zhao<sup>†</sup>, **Chunyu Pan**, Miao Chang, Xizhe Zhang, Jia Duan, Yange Wei, Yanqing Tang*, Fei Wang* . "_State-and trait-related dysfunctions in bipolar disorder across different mood states: a graph theory study._" _Journal of psychiatry & neuroscience._, 2024, JCR Q2, IF=4.3.
+
 (2023). Xinru Wei<sup>†</sup> , **Chunyu Pan<sup>†</sup>** , Xizhe Zhang* , Weixiong Zhang* . "_Total network controllability analysis discovers explainable drugs for Covid-19 treatment._" _biology direct._ 2023, JCR Q1, IF=5.5.
 
 (2023). Xizhe Zhang* , **Chunyu Pan**, Xinru Wei, Meng Yu, Shuangjie Liu, Jun An, Jieping Yang, Baojun Wei, Wenjun Hao, Yang Yao* , Yuyan Zhu* , Weixiong Zhang* . "_Cancer-keeper genes as therapeutic targets._" _iScience._ 2023, JCR Q1, IF=6.6.
