@@ -16,6 +16,8 @@ Computer science and technology.
 _Complex network_, _Structural controllability_, _Algorithm optimization_, _Biological networks_
 
 ## Publications
+(2024). **Chunyu Pan**, Ying Ma , Lifei Wang, Yan Zhang , Fei Wang , Xizhe Zhang*. "_From Connectivity to Controllability: Unraveling the Brain Biomarkers of Major Depressive Disorder._"  _Brain Sciences._ 2024, JCR Q3, IF=3.3.
+
 (2024). **Chunyu Pan<sup>†</sup>**, Jie Wang<sup>†</sup> , Di Yan, Changsheng Zhang* , Xizhe Zhang*. "_A fast algorithm for diffusion source localization in large-scale complex networks._"  _Journal of Complex Networks._ 2024, JCR Q2, IF=2.1.
 
 (2024). Yifan Chen<sup>†</sup> , Pengfei Zhao<sup>†</sup>, **Chunyu Pan**, Miao Chang, Xizhe Zhang, Jia Duan, Yange Wei, Yanqing Tang* , Fei Wang* . "_State-and trait-related dysfunctions in bipolar disorder across different mood states: a graph theory study._" _Journal of psychiatry & neuroscience._ 2024, JCR Q2, IF=4.3.
