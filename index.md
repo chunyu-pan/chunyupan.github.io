@@ -19,7 +19,7 @@ _Complex network_, _Structural controllability_, _Algorithm optimization_, _Biol
 2020–2024  Intern, Early Intervention Unit, The Affiliated Brain Hospital of Nanjing Medical University
 
 ## Publications
-(2024). **Chunyu Pan<sup>†</sup>**, Quan Zhang<sup>†</sup> , Yue Zhu , Shengzhou Kong , Juan Liu , Changsheng Zhang , Fei Wang* ,Xizhe Zhang*. "_Module control of network analysis in psychopathology._"  _iScience._ 2024, JCR Q1, IF=4.6.
+(2024). **Chunyu Pan<sup>†</sup>**, Quan Zhang<sup>†</sup> , Yue Zhu, Shengzhou Kong, Juan Liu, Changsheng Zhang, Fei Wang*, Xizhe Zhang*. "_Module control of network analysis in psychopathology._"  _iScience._ 2024, JCR Q1, IF=4.6.
 
 (2024). **Chunyu Pan**, Ying Ma , Lifei Wang, Yan Zhang , Fei Wang , Xizhe Zhang*. "_From Connectivity to Controllability: Unraveling the Brain Biomarkers of Major Depressive Disorder._"  _Brain Sciences._ 2024, JCR Q3, IF=3.3.
 
