@@ -19,7 +19,7 @@ _Complex network_, _Structural controllability_, _Algorithm optimization_, _Biol
 2020–2024  Intern, Early Intervention Unit, The Affiliated Brain Hospital of Nanjing Medical University
 
 ## Publications
-(2024). Lili Tang<sup>†</sup>, Pengfei Zhao<sup>†</sup> , **Chunyu Pan** , YanZhuo Song , Junjie Zheng , Rongxin Zhu , Fei Wang* , Yanqing Tang* . "_Epigenetic molecular underpinnings of brain structural-functional connectivity decoupling in patients with major depressive disorder._"  _Journal of Affective Disorders._ 2024, JCR Q1, IF=4.9.
+(2024). Lili Tang<sup>†</sup>, Pengfei Zhao<sup>†</sup> , **Chunyu Pan** , YanZhuo Song , Junjie Zheng , Rongxin Zhu , Fei Wang* , Yanqing Tang* . "_Epigenetic molecular underpinnings of brain structural-functional connectivity decoupling in patients with major depressive disorder._"  <u>_Journal of Affective Disorders._</u> 2024, JCR Q1, IF=4.9.
 
 (2024). **Chunyu Pan<sup>†</sup>**, Quan Zhang<sup>†</sup> , Yue Zhu, Shengzhou Kong, Juan Liu, Changsheng Zhang, Fei Wang* , Xizhe Zhang* . "_Module control of network analysis in psychopathology._"  _iScience._ 2024, JCR Q1, IF=4.6.
 
