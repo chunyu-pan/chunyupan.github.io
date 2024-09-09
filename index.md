@@ -36,4 +36,4 @@ _Complex network_, _Structural controllability_, _Algorithm optimization_, _Biol
 (2021). Huiling Guo, Yao Xiao, Dandan Sun, Jingyu Yang, Jie Wang, Huaning Wang, **Chunyu Pan**, Chao Li, Pengfei Zhao, Yanbo Zhang, Jinfeng Wu, Xizhe Zhang* , Fei Wang* . "_Early-stage repetitive transcranial magnetic stimulation altered posterior-anterior cerebrum effective connectivity in methylazoxymethanol acetate rats._" <u>Frontiers in neuroscience<\u>. 2021, JCR Q2, IF=4.677.
 
 (2021). **Chunyu Pan**, Yuyan Zhu, Meng Yu, Yongkang Zhao, Changsheng Zhang* , Xizhe Zhang* , Yang Yao* . "_Control analysis of Protein-Protein interaction Network reveals potential regulatory targets for MYCN._"
-<u>Frontiers in oncology<\u>. 2021, JCR Q2, IF=6.244.
+ <u>Frontiers in oncology<\u>. 2021, JCR Q2, IF=6.244.
