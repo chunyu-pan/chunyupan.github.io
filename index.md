@@ -31,9 +31,9 @@ _Complex network_, _Structural controllability_, _Algorithm optimization_, _Biol
 
 (2023). Xinru Wei<sup>†</sup> , **Chunyu Pan<sup>†</sup>** , Xizhe Zhang* , Weixiong Zhang* . "_Total network controllability analysis discovers explainable drugs for Covid-19 treatment._" <u>biology direct<\u>. 2023, JCR Q1, IF=5.5.
 
-(2023). Xizhe Zhang* , **Chunyu Pan**, Xinru Wei, Meng Yu, Shuangjie Liu, Jun An, Jieping Yang, Baojun Wei, Wenjun Hao, Yang Yao* , Yuyan Zhu* , Weixiong Zhang* . "_Cancer-keeper genes as therapeutic targets._" <u>iScience<\u>. 2023, JCR Q1, IF=6.6.
+(2023). Xizhe Zhang* , **Chunyu Pan**, Xinru Wei, Meng Yu, Shuangjie Liu, Jun An, Jieping Yang, Baojun Wei, Wenjun Hao, Yang Yao* , Yuyan Zhu* , Weixiong Zhang* . "_Cancer-keeper genes as therapeutic targets._"   <u>iScience<\u>. 2023, JCR Q1, IF=6.6.
 
-(2021). Huiling Guo, Yao Xiao, Dandan Sun, Jingyu Yang, Jie Wang, Huaning Wang, **Chunyu Pan**, Chao Li, Pengfei Zhao, Yanbo Zhang, Jinfeng Wu, Xizhe Zhang* , Fei Wang* . "_Early-stage repetitive transcranial magnetic stimulation altered posterior-anterior cerebrum effective connectivity in methylazoxymethanol acetate rats._" <u>Frontiers in neuroscience<\u>. 2021, JCR Q2, IF=4.677.
+(2021). Huiling Guo, Yao Xiao, Dandan Sun, Jingyu Yang, Jie Wang, Huaning Wang, **Chunyu Pan**, Chao Li, Pengfei Zhao, Yanbo Zhang, Jinfeng Wu, Xizhe Zhang* , Fei Wang* . "_Early-stage repetitive transcranial magnetic stimulation altered posterior-anterior cerebrum effective connectivity in methylazoxymethanol acetate rats._"  <u>Frontiers in neuroscience<\u>. 2021, JCR Q2, IF=4.677.
 
 (2021). **Chunyu Pan**, Yuyan Zhu, Meng Yu, Yongkang Zhao, Changsheng Zhang* , Xizhe Zhang* , Yang Yao* . "_Control analysis of Protein-Protein interaction Network reveals potential regulatory targets for MYCN._"
- <u>Frontiers in oncology<\u>. 2021, JCR Q2, IF=6.244.
+  <u>Frontiers in oncology<\u>. 2021, JCR Q2, IF=6.244.
