@@ -12,12 +12,13 @@ Computer science and technology.
 **BS, 2013-2017.**<br>
 Shenyang University of Technology, Shenyang, China,<br>
 Computer science and technology. 
-## Research interests
-_Complex network_, _Structural controllability_, _Algorithm optimization_, _Biological networks_
 
 ## Work experience
 2024-Now  Postdoctoral Fellow, Department of Health Technology & Informatics, Hong Kong Polytechnic University
 2020–2024  Intern, Early Intervention Unit, The Affiliated Brain Hospital of Nanjing Medical University
+
+## Research interests
+_Complex system_, _Structural controllability_, _Algorithm optimization_, _Biological networks_, _Brain connectivity_
 
 ## Publications
 (2024). Lili Tang<sup>†</sup>, Pengfei Zhao<sup>†</sup> , **Chunyu Pan** , YanZhuo Song , Junjie Zheng , Rongxin Zhu , Fei Wang* , Yanqing Tang* . "_Epigenetic molecular underpinnings of brain structural-functional connectivity decoupling in patients with major depressive disorder._"  <u>Journal of Affective Disorders</u>. 2024, JCR Q1, IF=4.9.
