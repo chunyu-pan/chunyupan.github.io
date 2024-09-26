@@ -15,10 +15,12 @@ Computer science and technology.
 
 ## Work experience
 **Postdoctoral Fellow, 2024-Now**<br>
-Department of Health Technology & Informatics, Hong Kong Polytechnic University <br>
+Hong Kong Polytechnic University <br>
+Department of Health Technology & Informatics
 
 **Intern, 2020–2024.**<br>
-Early Intervention Unit, The Affiliated Brain Hospital of Nanjing Medical University
+The Affiliated Brain Hospital of Nanjing Medical University<br>
+Early Intervention Unit
 
 ## Research interests
 _Complex system_, _Structural controllability_, _Algorithm optimization_, _Biological networks_, _Brain connectivity_
