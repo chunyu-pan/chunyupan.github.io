@@ -18,7 +18,7 @@ Computer science and technology.
 Hong Kong Polytechnic University <br>
 Department of Health Technology & Informatics
 
-**Intern, 2020–2024.**<br>
+**Intern, 2020-2024.**<br>
 The Affiliated Brain Hospital of Nanjing Medical University<br>
 Early Intervention Unit
 
