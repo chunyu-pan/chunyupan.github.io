@@ -16,6 +16,7 @@ Computer science and technology.
 _Complex network_, _Structural controllability_, _Algorithm optimization_, _Biological networks_
 
 ## Work experience
+2024-Now  Postdoctoral Fellow, Department of Health Technology & Informatics, Hong Kong Polytechnic University
 2020–2024  Intern, Early Intervention Unit, The Affiliated Brain Hospital of Nanjing Medical University
 
 ## Publications
