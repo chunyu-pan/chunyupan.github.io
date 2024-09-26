@@ -17,7 +17,7 @@ Computer science and technology.
 **Postdoctoral Fellow, 2024-Now**<br>
 Department of Health Technology & Informatics, Hong Kong Polytechnic University <br>
 
-**Intern, 2020–2024**<br>
+**Intern, 2020–2024.**<br>
 Early Intervention Unit, The Affiliated Brain Hospital of Nanjing Medical University
 
 ## Research interests
