@@ -14,8 +14,10 @@ Shenyang University of Technology, Shenyang, China,<br>
 Computer science and technology. 
 
 ## Work experience
-2024-Now  Postdoctoral Fellow, Department of Health Technology & Informatics, Hong Kong Polytechnic University <br>
-2020–2024  Intern, Early Intervention Unit, The Affiliated Brain Hospital of Nanjing Medical University
+**2024-Now** 
+Postdoctoral Fellow, Department of Health Technology & Informatics, Hong Kong Polytechnic University <br>
+**2020–2024**  
+Intern, Early Intervention Unit, The Affiliated Brain Hospital of Nanjing Medical University
 
 ## Research interests
 _Complex system_, _Structural controllability_, _Algorithm optimization_, _Biological networks_, _Brain connectivity_
