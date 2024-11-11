@@ -26,6 +26,8 @@ Early Intervention Unit
 _Complex system_, _Structural controllability_, _Algorithm optimization_, _Biological networks_, _Brain connectivity_
 
 ## Publications
+(2024). Yao Xiao<sup>†</sup>, Shuai Dong<sup>†</sup> , **Chunyu Pan** , Huiling Guo , Lili Tang , Xizhe Zhang* , Fei Wang* . "_Effectiveness of non-invasive brain stimulation on depressive symptoms targeting prefrontal cortex in functional magnetic resonance imaging studies: a combined systematic review and meta-analysis._"  <u>Psychoradiology</u>. 2024.
+
 (2024). Lili Tang<sup>†</sup>, Pengfei Zhao<sup>†</sup> , **Chunyu Pan** , YanZhuo Song , Junjie Zheng , Rongxin Zhu , Fei Wang* , Yanqing Tang* . "_Epigenetic molecular underpinnings of brain structural-functional connectivity decoupling in patients with major depressive disorder._"  <u>Journal of Affective Disorders</u>. 2024, JCR Q1, IF=4.9.
 
 (2024). **Chunyu Pan<sup>†</sup>**, Quan Zhang<sup>†</sup> , Yue Zhu, Shengzhou Kong, Juan Liu, Changsheng Zhang, Fei Wang* , Xizhe Zhang* . "_Module control of network analysis in psychopathology._"  <u>iScience</u>. 2024, JCR Q1, IF=4.6.
